@@ -1,4 +1,4 @@
-# :lightning: A Brief Talk on React VR
+# A Brief Talk on React VR
 
 ## Highlights
 
